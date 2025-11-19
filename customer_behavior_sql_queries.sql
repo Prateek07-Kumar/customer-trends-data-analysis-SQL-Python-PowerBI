@@ -26,7 +26,7 @@ limit 5;
 
 select shipping_type, round(avg(purchase_amount),2) as avg_purchase
 from customer
-where shipping_type in ('Standard' ,'Express')
+where shipping_type in ('Standard','Express')
 group by shipping_type
 order by avg_purchase;
 
