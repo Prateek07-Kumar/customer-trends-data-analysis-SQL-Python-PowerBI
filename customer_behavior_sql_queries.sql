@@ -95,7 +95,7 @@ group by subscription_status
 --order by repeat_buyers
 
 --Q10. What is the revenue contribution of each age group? 
-
+	
 select 
 	age_group,
 	sum(purchase_amount) as revenue_contribution
