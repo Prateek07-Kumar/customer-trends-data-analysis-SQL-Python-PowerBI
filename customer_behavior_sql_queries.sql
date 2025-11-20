@@ -91,7 +91,7 @@ select
 	count(customer_id) as repeat_buyers
 from customer
 where previous_purchases > 5
-group by subscription_status
+group by subscription_status;
 --order by repeat_buyers
 
 --Q10. What is the revenue contribution of each age group? 
