@@ -69,7 +69,6 @@ select customer_segment, count(*) as "Number_of_customer"
 from customer_type
 group by customer_segment
 
-
 --Q8. What are the top 3 most purchased products within each category?
 
 with item_count as (
