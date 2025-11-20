@@ -4,7 +4,7 @@ select * from customer;
 
 select gender, sum(purchase_amount) as total_revenue
 from customer
-group by gender
+group by gender;
 	
 select * from customer;
 
