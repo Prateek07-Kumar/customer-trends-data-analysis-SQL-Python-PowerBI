@@ -12,7 +12,7 @@ select * from customer;
 
 select customer_id, purchase_amount from customer
 where discount_applied = 'Yes' and purchase_amount >= (select avg(purchase_amount) from customer)
-
+	
 -- Q3. Which are the top 5 products with the highest average review rating?
 
 select
