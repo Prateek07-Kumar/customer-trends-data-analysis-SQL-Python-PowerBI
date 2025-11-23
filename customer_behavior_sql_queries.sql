@@ -5,7 +5,7 @@ select * from customer;
 select gender, sum(purchase_amount) as total_revenue
 from customer
 group by gender;
-	
+
 --Q2. Which customers used a discount but still spent more than the average purchase amount? 
 
 select customer_id, purchase_amount from customer
