@@ -4,6 +4,6 @@ This project analyzes customer shopping behavior data through comprehensive expl
 
 ### Dataset Information
 - **Source File:** **customer_shopping_behavior.csv**
-- Total Records: 3,900 customer transactions
+- **Total Records:** 3,900 customer transactions
 - Original Features: 18 columns covering demographics, purchase details, and behavioral patterns
 - Final Features: 19 columns (after feature engineering)
