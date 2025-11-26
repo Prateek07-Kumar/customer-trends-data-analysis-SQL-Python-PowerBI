@@ -5,3 +5,4 @@ This project analyzes customer shopping behavior data through comprehensive expl
 ### Dataset Information
 - Source File: **customer_shopping_behavior.csv**
 - Total Records: 3,900 customer transactions
+- 
