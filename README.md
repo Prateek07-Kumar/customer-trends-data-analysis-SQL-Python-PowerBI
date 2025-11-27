@@ -10,3 +10,4 @@ This project analyzes customer shopping behavior data through comprehensive expl
 
 ## Project Workflow
 ### 1. Environment Setup
+The project utilizes Python with key data science libraries including Pandas for data manipulation, NumPy for numerical operations, Matplotlib and Seaborn for visualization, and SQLAlchemy with psycopg2 for database connectivity.
