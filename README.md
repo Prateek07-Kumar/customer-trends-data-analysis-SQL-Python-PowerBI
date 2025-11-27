@@ -13,3 +13,4 @@ This project analyzes customer shopping behavior data through comprehensive expl
 The project utilizes Python with key data science libraries, including Pandas for data manipulation, NumPy for numerical operations, Matplotlib and Seaborn for visualization, and SQLAlchemy with psycopg2 for database connectivity.
 
 ### 2. Data Loading & Initial Exploration
+The dataset was imported from a CSV file and thoroughly examined to understand its structure, data types, and initial quality. The exploration revealed 3,900 customer transactions with 18 original features, identifying that only the Review Rating column had missing values (37 records).
