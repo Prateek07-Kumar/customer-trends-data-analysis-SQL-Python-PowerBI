@@ -16,6 +16,6 @@ The project utilizes Python with key data science libraries, including Pandas fo
 The dataset was imported from a CSV file and thoroughly examined to understand its structure, data types, and initial quality. The exploration revealed 3,900 customer transactions with 18 original features, identifying that only the Review Rating column had missing values (37 records).
 
 ### 3. Exploratory Data Analysis (EDA)
-**Data Profiling**
+#### Data Profiling
 
 Comprehensive statistical analysis was performed to understand the dataset characteristics. The customer age distribution ranged from 18 to 70 years with an average of 44 years. Purchase amounts varied between $20 and $100, averaging $59.76. Review ratings fell between 2.5 and 5.0 with a mean of 3.75, and customers had between 1 and 50 previous purchases, averaging 25 transactions.
