@@ -9,3 +9,4 @@ This project analyzes customer shopping behavior data through comprehensive expl
 - **Final Features:** 19 columns (after feature engineering)
 
 ## Project Workflow
+### 1. Environment Setup
