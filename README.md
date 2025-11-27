@@ -8,4 +8,4 @@ This project analyzes customer shopping behavior data through comprehensive expl
 - **Original Features:** 18 columns covering demographics, purchase details, and behavioral patterns
 - **Final Features:** 19 columns (after feature engineering)
 
-##Project Workflow
+## Project Workflow
