@@ -25,3 +25,5 @@ A comprehensive statistical analysis was conducted to understand the characteris
 A thorough check revealed 37 missing values in the Review Rating column (approximately 0.95% of the dataset), while all other columns were complete with no missing data. No duplicate records were identified.
 
 ### 4. Data Cleaning & Preprocessing
+
+#### Handling Missing Values
