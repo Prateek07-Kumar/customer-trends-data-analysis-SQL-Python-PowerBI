@@ -29,3 +29,5 @@ A thorough check revealed 37 missing values in the Review Rating column (approxi
 #### Handling Missing Values
 
 The 37 missing review ratings were imputed using category-wise median values. This approach was chosen because it preserves the rating distribution within each product category, ensuring that clothing items are filled with clothing ratings, footwear with footwear ratings, and so on.
+
+#### Column Standardization
