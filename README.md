@@ -21,3 +21,5 @@ The dataset was imported from a CSV file and thoroughly examined to understand i
 A comprehensive statistical analysis was conducted to understand the characteristics of the dataset. The customer age distribution ranged from 18 to 70 years, with an average of 44 years. Purchase amounts varied between $20 and $100, with an average of $59.76. Review ratings fell between 2.5 and 5.0, with a mean of 3.75, and customers had between 1 and 50 previous purchases, averaging 25 transactions.
 
 #### Data Quality Assessment
+
+A thorough check revealed 37 missing values in the Review Rating column (approximately 0.95% of the dataset), while all other columns were complete with no missing data. No duplicate records were identified.
