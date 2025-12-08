@@ -31,3 +31,5 @@ A thorough check revealed 37 missing values in the Review Rating column (approxi
 The 37 missing review ratings were imputed using category-wise median values. This approach was chosen because it preserves the rating distribution within each product category, ensuring that clothing items are filled with clothing ratings, footwear with footwear ratings, and so on.
 
 #### Column Standardization
+
+All column names were converted to lowercase and spaces were replaced with underscores to ensure SQL compatibility and consistency. The Purchase Amount column was renamed from "purchase_amount_(usd)" to "purchase_amount" for cleaner syntax.
