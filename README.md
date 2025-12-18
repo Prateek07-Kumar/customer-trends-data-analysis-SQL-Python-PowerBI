@@ -44,4 +44,4 @@ Analysis revealed that the "discount_applied" and "promo_code_used" columns were
 #### Age Segmentation
 A new "age_group" feature was created by dividing customers into four equal-sized segments using quartile-based binning:
 - **Young Adult:** Ages 18-31 (25th percentile)
-- Adult: Ages 31-44 (50th percentile)
+- **Adult:** Ages 31-44 (50th percentile)
