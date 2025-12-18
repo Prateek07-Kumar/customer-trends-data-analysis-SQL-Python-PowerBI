@@ -36,3 +36,5 @@ The 37 missing review ratings were imputed using category-wise median values. Th
 All column names were converted to lowercase, and spaces were replaced with underscores to ensure SQL compatibility and consistency. The Purchase Amount column was renamed from "purchase_amount_(usd)" to "purchase_amount" for cleaner syntax.
 
 #### Removing Redundant Data
+
+Analysis revealed that the "discount_applied" and "promo_code_used" columns were completely identical across all 3,900 records. The "promo_code_used" column was removed to eliminate this redundancy and reduce data duplication.
