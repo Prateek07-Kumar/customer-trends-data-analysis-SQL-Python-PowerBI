@@ -40,3 +40,5 @@ All column names were converted to lowercase, and spaces were replaced with unde
 Analysis revealed that the "discount_applied" and "promo_code_used" columns were completely identical across all 3,900 records. The "promo_code_used" column was removed to eliminate this redundancy and reduce data duplication.
 
 ### 5. Feature Engineering
+
+#### Age Segmentation
