@@ -42,5 +42,4 @@ Analysis revealed that the "discount_applied" and "promo_code_used" columns were
 ### 5. Feature Engineering
 
 #### Age Segmentation
-
 A new "age_group" feature was created by dividing customers into four equal-sized segments using quartile-based binning:
